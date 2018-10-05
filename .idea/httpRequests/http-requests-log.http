@@ -1,0 +1,70 @@
+POST http://127.0.0.1:5000/addPatient
+Accept: */*
+Cache-Control: no-cache
+
+{"name": "John"}
+
+<> 2018-10-03T054131.400.html
+
+###
+
+POST http://127.0.0.1:5000/addPatient
+Accept: */*
+Cache-Control: no-cache
+
+{"name": "John"}
+
+<> 2018-10-03T053730.400.html
+
+###
+
+POST http://127.0.0.1:5000/addPatient
+Accept: */*
+Cache-Control: no-cache
+
+{"name": "John"}
+
+<> 2018-10-03T053713.400.html
+
+###
+
+POST http://127.0.0.1:5000/addPatient
+Accept: */*
+Cache-Control: no-cache
+
+{"name": "John"}
+
+<> 2018-10-03T053705.400.html
+
+###
+
+POST http://127.0.0.1:5000/addPatient
+Accept: */*
+Cache-Control: no-cache
+
+{"name": "John"}
+
+<> 2018-10-03T053704.400.html
+
+###
+
+POST http://127.0.0.1:5000/addPatient
+Accept: */*
+Cache-Control: no-cache
+
+{"name": "John"}
+
+<> 2018-10-03T053641.400.html
+
+###
+
+POST http://127.0.0.1:5000/addPatient
+Accept: */*
+Cache-Control: no-cache
+
+{"name": "John"}
+
+<> 2018-10-03T053538.400.html
+
+###
+
